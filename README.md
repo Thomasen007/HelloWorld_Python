@@ -6,7 +6,7 @@ We will be using Python to create this simple program.
 
 The purpose of this is to show how simple it is to create a program and upload it to GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/VCAIEuk5DR4)
 
 # Development Environment
 
