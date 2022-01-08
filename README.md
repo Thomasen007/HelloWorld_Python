@@ -17,7 +17,7 @@ The purpose of this is to show how simple it is to create a program and upload i
 
 # Useful Websites
 
-[Visual Studio](https://visualstudio.microsoft.com/)
-[Latest Python](https://www.python.org/downloads/)
-[Latest Git](https://git-scm.com/download)
+[Visual Studio](https://visualstudio.microsoft.com/)</br>
+[Latest Python](https://www.python.org/downloads/)</br>
+[Latest Git](https://git-scm.com/download)</br>
 [Useful Python Examples](https://www.w3schools.com/python/)
