@@ -1,23 +1,23 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Create a simple Hello World program and upload it to a Github repistory. 
 
-{Provide a description of your software}
+We will be using Python to create this simple program.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The purpose of this is to show how simple it is to create a program and upload it to GitHub.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+* Microsoft Visual Studio
+* Python 3.10.1
+* Git 2.34.1
+* GitHub
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+[Visual Studio](https://visualstudio.microsoft.com/)
+[Latest Python](https://www.python.org/downloads/)
+[Latest Git](https://git-scm.com/download)
+[Useful Python Examples](https://www.w3schools.com/python/)
